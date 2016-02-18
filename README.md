@@ -1,2 +1,3 @@
 # hello-world2
-a new repository
+
+I'm learning how to use Github. Very cool so far.
